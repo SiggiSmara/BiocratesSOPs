@@ -17,7 +17,7 @@ The dilution of the Testmix depends on the MS type you are using. The finally pr
 ximately to the concentration level of calibration standard 7 (Cal7), which is later measured after Kit preparation.
 Note: The Testmix is stable for 1 week at 4°C after preparation.
 
-###SCIEX 6500 Series 
+#### SCIEX 6500 Series 
 Add 600 μL of 50% methanol (in HPLC grade water) to the Testmix vial
 and vortex vigorously. Inject 10 μL.
 
