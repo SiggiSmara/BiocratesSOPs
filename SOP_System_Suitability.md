@@ -19,10 +19,10 @@ Note: The Testmix is stable for 1 week at 4°C after preparation.
 
 #### SCIEX 6500 Series 
 Add 600 μL of 50% methanol (in HPLC grade water) to the Testmix vial
-and vortex vigorously. Inject 10 μL.
+and vortex vigorously. Inject 5 μL.
 
 ### 3.  Evaluation of the Testmix Measurement
-Note: The stability of ­sarcosine, spermidine and spermine is very low in the Testmix, resulting in low peak intensities.
+Note: The stability of sarcosine, spermidine and spermine is very low in the Testmix, resulting in low peak intensities.
 
 Criteria | Evaluation
 ---------|-----------
